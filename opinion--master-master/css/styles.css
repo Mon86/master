@@ -1,6 +1,6 @@
 *{
   margin: 0;
-  padding: 0;
+  h3adding: 0;
   box-sizing: border-box;
   
  }
@@ -69,7 +69,7 @@ button{
 h2{text-align: center;}
 
 footer{background-color:whitesmoke;
-        height: 24rem;
+        height: 15rem;
         border: 2px solid wheat;
         
         }
@@ -88,12 +88,13 @@ footer{background-color:whitesmoke;
 .footerpagos{margin: 1rem;
         text-align: center;}
 
-.footeradicional img{ width: 20%;
-                }
+
 
 .footeradicional{
                 margin-top: 2rem;
                 margin-bottom: 0;
+                margin-left: 0.5rem;
+                margin-right: 0.5rem;
                 display: flex;
                 justify-content: space-between;
                 flex-wrap: wrap;
@@ -103,7 +104,8 @@ footer{background-color:whitesmoke;
                 gap:1rem}
 
 .footeradicional p{font-family:"moda";
-                   font-size: 1rem;}
+                   font-size: 1rem;
+                   margin-top: 0;}
 
 
 
